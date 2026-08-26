@@ -1,0 +1,9 @@
+-std=c23
+-I./
+-Wall
+-Wextra
+-Wpedantic
+-Wshadow
+-Wconversion
+-g3
+-fsanitize=address,undefined
