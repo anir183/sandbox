@@ -1,5 +1,7 @@
 // write a program to print all prime numbers between 1 and 100
 
+package aug19;
+
 public class Primes {
 	public static void main(String[] args) {
 		System.out.println("The primes from 1 to 100 are:");

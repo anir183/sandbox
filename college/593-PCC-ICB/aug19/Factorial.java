@@ -1,5 +1,7 @@
 // write a program to print the factorial of a given number
 
+package aug19;
+
 public class Factorial {
 	public static void main(String[] args) {
 		System.out.println("The factorial of 5 is: " + Fact.calculate(5));

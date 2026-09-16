@@ -1,5 +1,7 @@
 // write a program to print the largest of 3 numbers
 
+package aug19;
+
 public class LargestOf3 {
 	public static void main(String[] args) {
 		System.out.println("The largest of 1, 2 and 3 is: " + Largest.calculate(1, 2, 3));

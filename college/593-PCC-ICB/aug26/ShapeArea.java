@@ -1,5 +1,7 @@
 // write a program to calcualte the area of a circle, reactangle and triangle
 
+package aug26;
+
 import java.util.Scanner;
 
 public class ShapeArea {

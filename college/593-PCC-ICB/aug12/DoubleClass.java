@@ -1,5 +1,7 @@
 // write a double class program with the main loop in the second class
 
+package aug12;
+
 public class DoubleClass {
 	public static void main(String[] args) {
 		Room1 r = new Room1();

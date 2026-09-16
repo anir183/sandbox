@@ -1,5 +1,7 @@
 // write a program to print the fibonacci series till the nth term
 
+package aug19;
+
 public class Fibonacci {
 	public static void main(String[] args) {
 		System.out.println("The first 10 terms of fibonacci series are:");

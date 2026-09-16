@@ -1,5 +1,7 @@
 // write a program to print the details of a student (name, phone and roll)
 
+package aug19;
+
 public class StudentData {
 	public static void main(String[] args) {
 		Student stud = new Student();

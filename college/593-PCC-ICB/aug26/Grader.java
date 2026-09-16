@@ -5,6 +5,8 @@
 // for N subjects and calculate the SGPA of the student and print it. now do
 // this for 5 students in total.
 
+package aug26;
+
 import java.util.Scanner;
 
 public class Grader {

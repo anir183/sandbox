@@ -1,6 +1,8 @@
 // write a program to take two arrays of int and double types and calculate the
 // sum of the elements in each type of array
 
+package aug26;
+
 import java.util.Scanner;
 
 public class MultiDatatypeSum {

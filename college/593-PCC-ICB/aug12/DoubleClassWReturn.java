@@ -1,5 +1,7 @@
 // write a double class program but with int return type for first class
 
+package aug12;
+
 public class DoubleClassWReturn {
 	public static void main(String[] args) {
 		Room2 r = new Room2();

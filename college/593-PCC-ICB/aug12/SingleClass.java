@@ -1,5 +1,7 @@
 // write a single class program with main loop in the class itself
 
+package aug12;
+
 public class SingleClass {
 	int a = 3, b = 4;
 
